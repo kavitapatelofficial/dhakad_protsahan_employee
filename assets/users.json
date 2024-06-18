@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "S.NO": 1,
+      "NAME": "Raj kumarSoni (1st)",
+      "Mob No.": "9893194349",
+      "ID No.": "DT 01",
+      "GIFTS": ["TV", "PRINTING"],
+      "OK": "OK"
+    },
+    {
+      "S.NO": 2,
+      "NAME": "Shakeel khan (3nd)",
+      "Mob No.": "9179263893",
+      "ID No.": "DT 02",
+      "GIFTS": ["AIR COOLER"],
+      "OK": "OK"
+    },
+    {
+      "S.NO": 9,
+      "NAME": "Balwan singh (7th)",
+      "Mob No.": "9685818189",
+      "ID No.": "DT 09",
+      "GIFTS": ["OVEN", "LADGE BAG"],
+      "OK": "OK"
+    },
+    {
+      "S.NO": 10,
+      "NAME": "Ramesh Yadav",
+      "Mob No.": "9981489369",
+      "ID No.": "DT 10",
+      "GIFTS": ["GIFT"],
+      "OK": "OK"
+    },
+    {
+      "S.NO": 11,
+      "NAME": "Devendra prajapati (9th)",
+      "Mob No.": "9826713118",
+      "ID No.": "DT 11",
+      "GIFTS": ["OVEN", "BLANKET"],
+      "OK": "400"
+    },
+    {
+      "S.NO": 12,
+      "NAME": "Sunil kumar Ahirwar (10th)",
+      "Mob No.": "9826185770",
+      "ID No.": "DT 12",
+      "GIFTS": ["OVEN", "BEDSHEET"],
+      "OK": "1100"
+    },
+    {
+      "S.NO": 13,
+      "NAME": "Roop singh (2nd)",
+      "Mob No.": "9754714967",
+      "ID No.": "DT 13",
+      "GIFTS": ["REFRIGERATOR"],
+      "OK": "-3000"
+    },
+    {
+      "S.NO": 14,
+      "NAME": "Bhagwandas vishw (golu) (8th)",
+      "Mob No.": "8962261672",
+      "ID No.": "DT 14",
+      "GIFTS": ["SUJATA MIXER"],
+      "OK": "OK"
+    },
+    {
+      "S.NO": 15,
+      "NAME": "Lalaram jatav (6th)",
+      "Mob No.": "9752773284",
+      "ID No.": "DT 15",
+      "GIFTS": ["BEDSHEET", "BLANKET", "GAS"],
+      "OK": "1000"
+    },
+    {
+      "S.NO": 40,
+      "NAME": "ravi sahu (palasi) (4th)",
+      "Mob No.": "9669313459",
+      "ID No.": "DT 40",
+      "GIFTS": ["OVEN", "GAS"],
+      "OK": "400"
+    }
+  ]
+}
